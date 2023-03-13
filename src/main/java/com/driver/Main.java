@@ -5,7 +5,7 @@ public class Main {
 
         RWOnly r = new RWOnly();
 
-        r.setName("Chirag");
+        r.setName("Chirag Mittal");
         r.getName();
 
     }
